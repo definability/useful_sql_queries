@@ -1,4 +1,4 @@
-usefull_sql_queries
+Useful PostgreSQL queries
 ===================
 
 For usefull SQL (PostgreSQL) queries
