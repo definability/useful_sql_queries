@@ -1,4 +1,5 @@
 Useful PostgreSQL queries
 ===================
 
-For usefull SQL (PostgreSQL) queries
+For useful SQL (PostgreSQL) queries.
+Archived.
